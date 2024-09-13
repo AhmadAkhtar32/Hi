@@ -1,3 +1,4 @@
+/*Fee Structure FIle */ 
 package university.management.system;
 
 import javax.swing.*;
